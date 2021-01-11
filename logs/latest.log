@@ -1,243 +1,38 @@
-[09:50:50] [Server thread/INFO]: Ojak[/103.120.168.46:60748] logged in with entity id 353521 at (-269.5, 71.5625, -128.5)
-[09:50:51] [Server thread/INFO]: Ojak joined the game
-[09:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[09:51:17] [Server thread/INFO]: <Ojak> t
-[09:52:12] [Server thread/INFO]: Ojak lost connection: Disconnected
-[09:52:12] [Server thread/INFO]: Ojak left the game
-[09:52:16] [Server thread/INFO]: Ojak[/103.120.168.46:60874] logged in with entity id 353532 at (-268.5, 71.0, -126.5)
-[09:52:16] [Server thread/INFO]: Ojak joined the game
-[09:52:54] [Server thread/INFO]: <Ojak> Ojak
-[09:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 139268ms or 2785 ticks behind
-[09:54:18] [Server thread/INFO]: Ojak lost connection: Disconnected
-[09:54:18] [Server thread/INFO]: Ojak left the game
-[09:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 60098ms or 1201 ticks behind
-[10:00:24] [Server thread/INFO]: ikypedia[/139.193.157.38:65042] logged in with entity id 353567 at (-572.7536140431439, 68.0, -266.42262624801265)
-[10:00:24] [Server thread/INFO]: ikypedia joined the game
-[10:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[10:00:56] [Server thread/WARN]: ikypedia moved too quickly! 9.830646807694734,-0.5717064384838295,3.0093128993995037
-[10:01:19] [Server thread/WARN]: ikypedia moved too quickly! -0.13500010496613868,0.0,10.110343919785691
-[10:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 221553ms or 4431 ticks behind
-[10:06:25] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:06:25] [Server thread/INFO]: ikypedia left the game
-[10:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 207785ms or 4155 ticks behind
-[10:08:29] [Server thread/INFO]: ikypedia[/139.193.157.38:65072] logged in with entity id 353842 at (-479.44913610744237, 63.85000001788139, -124.03408942713166)
-[10:08:29] [Server thread/INFO]: ikypedia joined the game
-[10:10:51] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:10:51] [Server thread/INFO]: ikypedia left the game
-[10:11:19] [Server thread/INFO]: ikypedia[/139.193.157.38:65084] logged in with entity id 353861 at (-479.44913610744237, 63.85000001788139, -124.03408942713166)
-[10:11:19] [Server thread/INFO]: ikypedia joined the game
-[10:11:30] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:11:30] [Server thread/INFO]: ikypedia left the game
-[10:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 190340ms or 3806 ticks behind
-[10:11:33] [Server thread/INFO]: ikypedia[/139.193.157.38:65087] logged in with entity id 353879 at (-470.71190936990996, 64.8500000178814, -118.24618488728186)
-[10:11:33] [Server thread/INFO]: ikypedia joined the game
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! -0.4922711534103996,0.0,10.186611837713713
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! -0.02321328490080532,0.0,10.584272652171322
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 0.4611028692331729,0.0,10.966148836152797
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 0.9535834277874073,0.0,11.33957897907807
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 1.4560515599763448,0.0,11.700451894836291
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 1.9659434737421861,0.0,12.051476427641774
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 2.4798077050156166,0.0,12.397231287084836
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 2.995797444187872,0.0,12.740166449377611
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 3.514561698591365,0.0,13.079065427311988
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 4.041868167517123,0.0,13.404189478026268
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 4.57450012744448,0.0,13.720624020920965
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 5.109981651427972,0.0,14.032408981431502
-[10:11:40] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 5.651690812038396,0.0,14.333100016982812
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 9.700806367772486,2.0,-2.0485449651949637
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.298315790803713,2.0,-2.2128378417042853
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.894230427631726,2.0,-2.3829150822810163
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 11.484614117238493,2.0,-2.570426492219326
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.068869765122258,2.0,-2.775755895073573
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.649573736879859,3.0,-2.9913136485046437
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.22341193944385,3.0,-3.224161578442107
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.792644480631793,3.0,-3.4683259959572155
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.359412624244385,3.0,-3.718545640348708
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.924862117849159,3.0,-3.972005315913549
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 15.48960602812582,3.0,-4.227198667559989
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 16.05397239483142,3.0,-4.483319674711936
-[10:11:48] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 16.618136745499555,3.0,-4.739937051829415
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 0.33765555825800675
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 0.7284578854976189
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 1.1179957994556275
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 1.5033240179898257
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 1.8748665158427968
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 2.2238729550828396
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 2.560820798679657
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 2.8848289984806
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 3.188647972658913
-[10:11:58] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved wrongly! 3.478971880782865
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 9.830625069152461,0.0,-3.618231117768346
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.42319255922638,0.0,-3.730198037074217
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 11.023797281199393,0.0,-3.7386683667175475
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 11.624547015580333,0.0,-3.6725935174274014
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.219213139236842,0.0,-3.5456411099764864
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.803475505779659,0.0,-3.367053718798644
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.373009984025202,0.0,-3.140972629596206
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.925966375561984,0.0,-2.8736133899014646
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.467719894368258,0.0,-2.58028260492091
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.99781178604934,0.0,-2.264152775232361
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 15.51741581756255,0.0,-1.929591714496695
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 16.031408004205332,0.0,-1.58516846950684
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 16.542397404546023,0.0,-1.2354681663532858
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 17.051780073805617,0.0,-0.8829442145895428
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 17.560303013298437,0.0,-0.5289093847519553
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 18.068365928534263,0.0,-0.17406611418070383
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 18.57618269396204,0.0,0.18120973690855635
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 19.083867749535216,0.0,0.5367170532082639
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 19.591482329791233,0.0,0.8923482219271648
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 20.099059200110162,0.0,1.248045661606227
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 20.606615892593595,0.0,1.6037785615547762
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 21.114161788319564,-0.07683200149536162,1.9595304355865153
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 21.40933572126363,-0.2274534586630068,2.1664268000546656
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 21.696168085764157,-0.4489423104376016,2.367477612805857
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 21.975561439312287,-0.7384922093173572,2.5633153623855947
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 22.248320682701944,-1.0,2.754504102095069
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 22.72752981213398,-1.0,3.09041251689996
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 23.219907492060543,-1.0,3.43555670418894
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 23.719331400804208,-1.0,3.785642769192691
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 24.222525606101215,-1.0,4.13837313443122
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 24.631651597342,-1.0,4.585754455027683
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 24.99044356275914,-1.0,5.083781614699717
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 25.32230279451028,-1.0,5.6089083530919766
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 25.6397508574575,-1.0,6.148535535750142
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 25.949487791305444,-1.0,6.695921617027324
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 26.25509865371572,-1.0,7.2474593302597725
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 26.558501737564654,-1.0,7.80121849897688
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 26.860723483123763,-1.0,8.356166324232788
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 27.25839874268769,-1.0,8.818514132879386
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 27.707576642994468,-1.0,9.230702163056293
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 28.212514797909478,-1.0,9.565398532724458
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 28.766881979137224,-1.0,9.792200362799377
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 29.351217331262717,-1.0,9.929793699008002
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 29.951955616496434,-1.0,10.010627100320477
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 30.56148909361201,-1.0,10.060316047480313
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 31.175728702546394,-1.0,10.093340218176479
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 31.79248646878682,-1.0,10.117447399246743
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.410591650795084,-1.0,10.136783276953764
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.029417808116136,-1.0,10.153566125360669
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.36053934683616,-1.0,10.162546292929306
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.53771588035397,-1.0,10.167351401550064
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.55387900259632,-1.0,10.288078564612533
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.44561855248696,-1.0,10.43688926051908
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.25837860998979,-1.0,10.580058588513793
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 33.026025911639636,-1.0,10.714041284482136
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.88580605703851,-1.0,11.079346108179095
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.794884650196764,-1.0,11.568426790357961
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.73034185984608,-1.0,12.123737466586107
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.67991374124688,-1.0,12.714486492146392
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.63703810208568,-1.0,13.32419787186987
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.5982036440916,-1.0,13.94405562923751
-[10:12:03] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 32.56153154156755,-1.0,14.569342510985592
-[10:12:04] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 23.267626449726038,-1.0,18.54664060882135
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 5.343933126543789,-1.0,8.672538467824381
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 5.602350489179969,-1.0,9.248950113447108
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 5.96335940948552,-1.0,9.74020606481318
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 6.37926302684491,-1.0,10.18589690200389
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 6.824539702115658,-1.0,10.60720675506974
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 7.285533315039174,-1.0,11.01547082963475
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 7.754936747938757,-1.0,11.416754368228737
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 8.228840107833776,-1.0,11.814302761201475
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 8.705151288945217,-1.0,12.209852552223083
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 9.182750847182774,-1.0,12.604332931188452
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 9.661039790333064,-1.0,12.998241089084303
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.14017013334984,-1.0,13.391265886931961
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.619750692659466,-1.0,13.78381801643016
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 11.09957215373106,-1.0,14.176117230518514
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 11.579522516532393,-1.0,14.568281114613683
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.059541852079292,-1.0,14.96037258632768
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 12.539598093567179,-1.0,15.352425311620266
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.019674082688255,-1.0,15.744457304475247
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.499760638374141,-1.0,16.136478203816267
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 13.979852848018197,-1.0,16.528493167239105
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.459948082982521,-1.0,16.920504954470488
-[10:12:09] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 14.940044936735376,-1.0,17.31251504218514
-[10:12:10] [Server thread/WARN]: BABEH RACING (vehicle of ikypedia) moved too quickly! 10.335168867611173,0.0,9.607420488511565
-[10:12:41] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:12:41] [Server thread/INFO]: ikypedia left the game
-[10:12:47] [Server thread/INFO]: ikypedia[/139.193.157.38:65090] logged in with entity id 353992 at (-279.2470357848756, 66.0, -112.30000001192093)
-[10:12:47] [Server thread/INFO]: ikypedia joined the game
-[10:12:51] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:12:51] [Server thread/INFO]: ikypedia left the game
-[10:12:54] [Server thread/INFO]: ikypedia[/139.193.157.38:65094] logged in with entity id 353998 at (-279.2470357848756, 66.0, -112.30000001192093)
-[10:12:54] [Server thread/INFO]: ikypedia joined the game
-[10:12:58] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:12:58] [Server thread/INFO]: ikypedia left the game
-[10:13:12] [Server thread/INFO]: ikypedia[/139.193.157.38:65101] logged in with entity id 354007 at (-279.2470357848756, 66.0, -112.30000001192093)
-[10:13:12] [Server thread/INFO]: ikypedia joined the game
-[10:13:27] [Server thread/INFO]: ikypedia lost connection: Disconnected
-[10:13:27] [Server thread/INFO]: ikypedia left the game
-[10:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 199599ms or 3991 ticks behind
-[10:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 91071ms or 1821 ticks behind
-[10:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind
-[10:53:36] [Server thread/INFO]: Manto[/140.213.13.35:54292] logged in with entity id 354032 at (-274.99377848107537, 66.0, -118.02654849542866)
-[10:53:37] [Server thread/INFO]: Manto joined the game
-[10:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
-[10:56:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/354122, l='ServerLevel[world]', x=-231.20, y=64.00, z=-97.16]
-[10:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 179139ms or 3582 ticks behind
-[10:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 170110ms or 3402 ticks behind
-[11:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 173914ms or 3478 ticks behind
-[11:06:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 175027ms or 3500 ticks behind
-[11:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 171679ms or 3433 ticks behind
-[11:09:31] [Server thread/INFO]: Manto lost connection: Disconnected
-[11:09:31] [Server thread/INFO]: Manto left the game
-[11:09:37] [Server thread/INFO]: Manto[/140.213.13.35:50836] logged in with entity id 354323 at (-272.5825342809182, 66.0, -118.16645859870472)
-[11:09:37] [Server thread/INFO]: Manto joined the game
-[11:11:29] [Server thread/INFO]: Manto lost connection: Disconnected
-[11:11:29] [Server thread/INFO]: Manto left the game
-[11:11:38] [Server thread/INFO]: Manto[/140.213.13.35:57241] logged in with entity id 354337 at (-269.0955931566036, 67.0, -83.67523448955946)
-[11:11:38] [Server thread/INFO]: Manto joined the game
-[11:12:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/354345, l='ServerLevel[world]', x=-230.34, y=64.00, z=-97.58]
-[11:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 171904ms or 3438 ticks behind
-[11:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 154538ms or 3090 ticks behind
-[11:17:15] [Server thread/INFO]: Manto lost connection: Disconnected
-[11:17:15] [Server thread/INFO]: Manto left the game
-[11:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 150462ms or 3009 ticks behind
-[11:18:07] [Server thread/INFO]: Manto[/115.178.196.64:60514] logged in with entity id 354399 at (-274.19705753765203, 71.0, -118.35396296417707)
-[11:18:07] [Server thread/INFO]: Manto joined the game
-[11:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 157624ms or 3152 ticks behind
-[11:21:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/354445, l='ServerLevel[world]', x=-234.74, y=64.00, z=-83.83]
-[11:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 156930ms or 3138 ticks behind
-[11:25:24] [Server thread/INFO]: Manto lost connection: Timed out
-[11:25:24] [Server thread/INFO]: Manto left the game
-[11:25:24] [Server thread/INFO]: Manto[/140.213.13.35:26160] logged in with entity id 354501 at (-279.5460026085496, 69.0, -122.2691218117564)
-[11:25:24] [Server thread/INFO]: Manto joined the game
-[11:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 158893ms or 3177 ticks behind
-[11:27:40] [Server thread/INFO]: Manto lost connection: Disconnected
-[11:27:40] [Server thread/INFO]: Manto left the game
-[11:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 144329ms or 2886 ticks behind
-[11:29:56] [Server thread/INFO]: Manto[/180.244.234.227:30438] logged in with entity id 354535 at (-276.47598575927253, 71.0, -122.64034086832126)
-[11:29:56] [Server thread/INFO]: Manto joined the game
-[11:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 165258ms or 3305 ticks behind
-[11:34:09] [Server thread/INFO]: <Manto> tes
-[11:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 165454ms or 3309 ticks behind
-[11:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 165463ms or 3309 ticks behind
-[11:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 171173ms or 3423 ticks behind
-[11:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 167783ms or 3355 ticks behind
-[11:47:09] [Server thread/INFO]: Manto lost connection: You logged in from another location
-[11:47:09] [Server thread/INFO]: Manto left the game
-[11:47:09] [Server thread/INFO]: Manto[/140.213.13.32:33641] logged in with entity id 354822 at (-279.733524930363, 68.0, -149.699999988079)
-[11:47:09] [Server thread/INFO]: Manto joined the game
-[11:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 156556ms or 3131 ticks behind
-[11:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 157652ms or 3153 ticks behind
-[11:52:26] [Server thread/WARN]: Manto moved too quickly! 9.74071628485467,0.0,2.96758768413153
-[11:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 155578ms or 3111 ticks behind
-[11:54:39] [Server thread/INFO]: Manto lost connection: Disconnected
-[11:54:39] [Server thread/INFO]: Manto left the game
-[11:55:41] [Server thread/INFO]: Manto[/140.213.13.32:42879] logged in with entity id 354924 at (-280.24100780227593, 67.0, -153.85539540059764)
-[11:55:41] [Server thread/INFO]: Manto joined the game
-[11:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 154836ms or 3096 ticks behind
-[11:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 154711ms or 3094 ticks behind
-[12:01:23] [Server thread/INFO]: Manto lost connection: Disconnected
-[12:01:23] [Server thread/INFO]: Manto left the game
-[12:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 155689ms or 3113 ticks behind
-[12:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 133965ms or 2679 ticks behind
-[12:47:59] [Server thread/INFO]: Ojak[/103.120.168.46:63647] logged in with entity id 355007 at (-266.20798276258097, 70.5, -126.46272199071359)
-[12:47:59] [Server thread/INFO]: Ojak joined the game
-[12:48:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[12:48:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/355022, l='ServerLevel[world]', x=-233.33, y=64.00, z=-83.83]
-[12:49:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/355039, l='ServerLevel[world]', x=-233.43, y=64.00, z=-85.16]
-[12:50:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/355062, l='ServerLevel[world]', x=-234.65, y=64.00, z=-87.17]
-[12:50:31] [Server thread/INFO]: Ojak lost connection: Disconnected
-[12:50:31] [Server thread/INFO]: Ojak left the game
-[12:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 156407ms or 3128 ticks behind
+[04:05:43] [Server thread/INFO]: Ojak[/103.120.168.46:51848] logged in with entity id 693367 at (57.01782966332165, 58.0, -65.38652165873421)
+[04:05:43] [Server thread/INFO]: Ojak joined the game
+[04:26:53] [Server thread/INFO]: Ojak lost connection: Disconnected
+[04:26:53] [Server thread/INFO]: Ojak left the game
+[05:53:32] [Server thread/INFO]: Ojak[/103.120.168.46:49198] logged in with entity id 695731 at (109.56310460652504, 63.0, -66.04478277066258)
+[05:53:32] [Server thread/INFO]: Ojak joined the game
+[06:14:27] [Server thread/INFO]: Ojak lost connection: Disconnected
+[06:14:27] [Server thread/INFO]: Ojak left the game
+[07:08:18] [Server thread/INFO]: Ojak[/103.120.168.46:58751] logged in with entity id 697922 at (111.81178006597848, 63.0, -63.986096709263464)
+[07:08:18] [Server thread/INFO]: Ojak joined the game
+[07:10:16] [Server thread/INFO]: Ojak lost connection: Disconnected
+[07:10:16] [Server thread/INFO]: Ojak left the game
+[08:28:50] [Server thread/INFO]: Manto[/180.244.235.142:17372] logged in with entity id 698172 at (-259.41023335462233, 67.0, -138.49427410231175)
+[08:28:50] [Server thread/INFO]: Manto joined the game
+[08:30:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/698514, l='ServerLevel[world]', x=-228.22, y=64.00, z=-97.42]
+[08:30:54] [Server thread/INFO]: Ojak[/103.120.168.46:53346] logged in with entity id 698596 at (111.81178006597848, 63.0, -63.986096709263464)
+[08:30:54] [Server thread/INFO]: Ojak joined the game
+[08:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[08:33:38] [Server thread/INFO]: Manto lost connection: Timed out
+[08:33:38] [Server thread/INFO]: Manto left the game
+[08:33:38] [Server thread/WARN]: handleDisconnection() called twice
+[08:33:43] [Server thread/INFO]: Manto[/8.21.11.96:59115] logged in with entity id 699497 at (-290.4502612970776, 64.0, -162.6754367962009)
+[08:33:43] [Server thread/INFO]: Manto joined the game
+[08:35:22] [Server thread/INFO]: MaestroGotNoLife[/103.82.14.87:44063] logged in with entity id 700116 at (45.99045146842568, 50.0, -61.02856626809656)
+[08:35:22] [Server thread/INFO]: MaestroGotNoLife joined the game
+[08:35:30] [Server thread/INFO]: <MaestroGotNoLife> kerja gobd
+[08:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[08:37:46] [Server thread/INFO]: <Ojak> lag?
+[08:37:49] [Server thread/INFO]: <MaestroGotNoLife> iya
+[08:38:03] [Server thread/INFO]: <Ojak> restart dulu ya
+[08:38:08] [Server thread/INFO]: Ojak lost connection: Disconnected
+[08:38:08] [Server thread/INFO]: Ojak left the game
+[08:38:09] [Server thread/INFO]: Manto lost connection: Disconnected
+[08:38:09] [Server thread/INFO]: Manto left the game
+[08:38:25] [Server thread/INFO]: MaestroGotNoLife lost connection: Disconnected
+[08:38:25] [Server thread/INFO]: MaestroGotNoLife left the game
+[08:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 98320ms or 1966 ticks behind
+[08:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
