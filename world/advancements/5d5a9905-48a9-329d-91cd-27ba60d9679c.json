@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-01-11 14:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-12-27 14:09:50 +0000"
@@ -591,6 +597,7 @@
       "minecraft:phantom": "2021-01-06 16:27:33 +0000",
       "minecraft:witch": "2020-12-29 16:06:11 +0000",
       "minecraft:enderman": "2021-01-05 16:18:20 +0000",
+      "minecraft:stray": "2021-01-11 13:28:44 +0000",
       "minecraft:zombie": "2020-12-27 13:50:16 +0000",
       "minecraft:drowned": "2020-12-29 15:26:21 +0000",
       "minecraft:zombie_villager": "2020-12-27 16:04:22 +0000"
@@ -840,6 +847,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-12-27 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2021-01-11 12:16:23 +0000"
     },
     "done": true
   },
@@ -1169,8 +1182,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2021-01-11 13:00:07 +0000",
       "minecraft:forest": "2020-12-27 14:00:12 +0000",
       "minecraft:taiga": "2020-12-28 13:48:23 +0000",
+      "minecraft:snowy_tundra": "2021-01-11 12:59:38 +0000",
+      "minecraft:frozen_river": "2021-01-11 12:59:37 +0000",
+      "minecraft:snowy_beach": "2021-01-11 12:55:59 +0000",
       "minecraft:warm_ocean": "2020-12-29 14:26:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-29 14:33:58 +0000",
       "minecraft:beach": "2020-12-27 16:33:12 +0000",
@@ -1372,6 +1389,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-12-29 15:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-01-11 12:14:08 +0000"
     },
     "done": true
   },
@@ -1639,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-01-11 13:06:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-12-27 13:48:58 +0000"
@@ -1695,10 +1724,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2021-01-15 15:57:35 +0000",
       "cooked_mutton": "2020-12-27 13:48:44 +0000",
       "sweet_berries": "2021-01-06 14:05:57 +0000",
       "cooked_beef": "2020-12-27 17:07:45 +0000",
       "bread": "2020-12-29 14:18:29 +0000",
+      "rotten_flesh": "2021-01-15 15:57:16 +0000",
+      "salmon": "2021-01-15 15:57:49 +0000",
       "cooked_chicken": "2020-12-27 15:12:26 +0000",
       "cooked_salmon": "2020-12-27 15:56:41 +0000",
       "carrot": "2021-01-05 17:48:18 +0000"
@@ -2127,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-01-11 14:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-12-28 13:46:12 +0000"
@@ -2232,6 +2270,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-12-28 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-01-11 13:00:22 +0000"
     },
     "done": true
   },
@@ -2655,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-01-11 13:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-12-27 14:27:39 +0000"
@@ -2808,6 +2858,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2021-01-08 16:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-01-11 13:09:27 +0000"
     },
     "done": true
   },

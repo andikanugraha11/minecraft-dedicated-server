@@ -1,0 +1,50 @@
+---- Minecraft Crash Report ----
+// I'm sorry, Dave.
+
+Time: 1/12/21, 10:32 AM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at java.base/sun.nio.cs.StreamEncoder.write(StreamEncoder.java:133)
+	at java.base/java.io.OutputStreamWriter.write(OutputStreamWriter.java:229)
+	at java.base/java.io.Writer.write(Writer.java:249)
+	at com.google.gson.stream.JsonWriter.value(JsonWriter.java:467)
+	at com.google.gson.internal.bind.TypeAdapters$29.write(TypeAdapters.java:760)
+	at com.google.gson.internal.bind.TypeAdapters$29.write(TypeAdapters.java:776)
+	at com.google.gson.internal.bind.TypeAdapters$29.write(TypeAdapters.java:776)
+	at com.google.gson.internal.bind.TypeAdapters$29.write(TypeAdapters.java:714)
+	at com.google.gson.internal.Streams.write(Streams.java:72)
+	at com.google.gson.Gson.toJson(Gson.java:745)
+	at com.google.gson.Gson.toJson(Gson.java:703)
+	at vt.b(SourceFile:189)
+	at acu.b(SourceFile:357)
+	at acu.c(SourceFile:369)
+	at aay.a(SourceFile:1116)
+	at nd.m(SourceFile:396)
+	at aax.c(SourceFile:186)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:882)
+	at zg.b(SourceFile:312)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:811)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:670)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257)
+	at net.minecraft.server.MinecraftServer$$Lambda$3305/0x000000084080e840.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.4
+	Minecraft Version ID: 1.16.4
+	Operating System: Linux (amd64) version 5.4.0-58-generic
+	Java Version: 11.0.9.1, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 906288 bytes (0 MB) / 522190848 bytes (498 MB) up to 522190848 bytes (498 MB)
+	CPUs: 2
+	JVM Flags: 0 total; 
+	Player Count: 2 / 10; [aah['Manto'/92092, l='ServerLevel[world]', x=-690.09, y=64.00, z=-608.23], aah['Ojak'/101392, l='ServerLevel[world]', x=-682.32, y=64.00, z=-603.98]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

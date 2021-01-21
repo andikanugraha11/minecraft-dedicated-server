@@ -586,6 +586,7 @@
       "minecraft:witch": "2020-12-31 09:24:04 +0000",
       "minecraft:piglin": "2020-12-28 16:44:12 +0000",
       "minecraft:enderman": "2020-12-28 12:46:19 +0000",
+      "minecraft:stray": "2021-01-11 13:29:39 +0000",
       "minecraft:zombie": "2020-12-27 13:50:06 +0000",
       "minecraft:drowned": "2020-12-28 15:50:24 +0000",
       "minecraft:zombie_villager": "2021-01-08 17:18:27 +0000"
@@ -1146,16 +1147,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2021-01-11 11:00:50 +0000",
       "minecraft:forest": "2020-12-27 14:20:49 +0000",
+      "minecraft:mountains": "2021-01-11 11:26:58 +0000",
       "minecraft:taiga": "2020-12-28 15:59:41 +0000",
+      "minecraft:desert_hills": "2021-01-12 13:23:00 +0000",
+      "minecraft:snowy_tundra": "2021-01-11 11:00:43 +0000",
       "minecraft:taiga_hills": "2020-12-28 15:59:26 +0000",
+      "minecraft:desert": "2021-01-12 11:45:41 +0000",
+      "minecraft:frozen_river": "2021-01-11 11:02:53 +0000",
       "minecraft:birch_forest": "2020-12-27 17:01:32 +0000",
+      "minecraft:snowy_beach": "2021-01-11 10:59:08 +0000",
       "minecraft:warm_ocean": "2020-12-27 16:38:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-27 16:43:03 +0000",
       "minecraft:beach": "2020-12-27 15:32:37 +0000",
       "minecraft:river": "2020-12-27 15:32:31 +0000",
       "minecraft:lukewarm_ocean": "2020-12-27 16:38:31 +0000",
+      "minecraft:snowy_taiga": "2021-01-11 10:58:08 +0000",
+      "minecraft:wooded_mountains": "2021-01-11 11:30:06 +0000",
       "minecraft:wooded_hills": "2020-12-27 13:40:12 +0000",
+      "minecraft:stone_shore": "2021-01-11 12:06:41 +0000",
+      "minecraft:snowy_taiga_hills": "2021-01-12 12:04:42 +0000",
       "minecraft:savanna": "2020-12-29 15:16:29 +0000",
       "minecraft:plains": "2020-12-27 13:38:11 +0000"
     },
@@ -1596,6 +1608,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2021-01-04 07:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-01-11 13:06:28 +0000"
     },
     "done": true
   },
@@ -2114,6 +2132,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-01-11 13:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-01-11 14:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-12-27 13:55:49 +0000"
@@ -2159,6 +2189,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-12-31 14:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-01-12 13:06:07 +0000"
     },
     "done": true
   },
@@ -2213,6 +2249,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-04 14:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-01-11 11:05:39 +0000"
     },
     "done": true
   },
@@ -2624,6 +2666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-01-11 11:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-12-28 16:35:37 +0000"
@@ -2789,6 +2837,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-01-08 16:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-01-12 12:07:32 +0000"
     },
     "done": true
   },
